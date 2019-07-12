@@ -1,4 +1,4 @@
-# test-public.github.io
+# GitHub Document
 
 This is my test page.
 
