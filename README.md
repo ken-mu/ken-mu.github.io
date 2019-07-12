@@ -4,6 +4,6 @@ This is my test page.
 
 ## Contents
 
--[Register](register.md) 
+- [Register](register.md) 
 
 ## Abstraction
